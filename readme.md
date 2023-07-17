@@ -4,7 +4,7 @@ This is a Go codebase that provides a wrapper for interacting with the Erply API
 
 ## Prerequisites
 
-- Go 1.16 or later
+- Go 1.20 or later
 - SQLite3 database
 
 ## Getting Started
